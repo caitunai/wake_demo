@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WakeDemo</string>
+    <string name="btn1_start">Start</string>
+    <string name="btn1_stop">Stop</string>
+    <string name="btn2_start">Play</string>
+    <string name="btn2_stop">Stop</string>
+    <string name="swap">swap</string>
+</resources>
